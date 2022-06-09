@@ -121,7 +121,7 @@ endmodule
 
 #### TIMING DIGRAMS FOR SHIFT REGISTERS
 
-![pipowf](https://user-images.githubusercontent.com/93427208/172891199-8b50cd32-abde-4bac-833f-41b69bbbf59e.png)
+![image](https://user-images.githubusercontent.com/93427208/172894891-d92c010d-0e2e-4385-bca8-3e6151f73bf6.png)
 
 ### Parallel Input Parallel Output (PIPO):
 #### RTL Registers:
